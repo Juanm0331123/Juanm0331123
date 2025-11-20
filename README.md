@@ -99,9 +99,36 @@ Full-Stack Developer desde Colombia, enfocado en construir soluciones web claras
 
 ---
 
-<p align="left">
-<a href="https://github.com/Juanm0331123">
-  <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=Juanm0331123&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanm0331123&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Juanm0331123">
+        <img
+          height="160em"
+          src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=Juanm0331123&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Juanm0331123">
+        <img
+          height="160em"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanm0331123&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🧩 Contributions
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Juanm0331123&theme=react-dark&hide_border=true&area=true"
+        alt="Contribution Graph"
+      />
+    </td>
+  </tr>
+</table>
