@@ -40,16 +40,19 @@ Full-Stack Developer desde Colombia, enfocado en construir soluciones web claras
 > Me gusta entender a fondo cómo funcionan las cosas, tomar sistemas complejos  
 > y convertirlos en software más simple, predecible y eficiente.
 
-- 🧭 Construyo **aplicaciones web** y **experiencias digitales** que se sienten vivas y fluidas.
-- 🧠 Codifico diario con **JavaScript / TypeScript** y algo de **React, Vue, Angular, Node.js, NestJS y Flask**.
-- 🎯 Me obsesionan las **buenas prácticas**, la **DX para devs** y los productos que la gente *realmente* quiere usar.
-- 🤝 Siempre abierto a colaborar en **open source**, ideas locas y productos **SaaS**.
+- 🧭 Construyo **aplicaciones web** y **experiencias digitales** centradas en rendimiento y usabilidad.
+- 🧠 Trabajo a diario con **JavaScript / TypeScript** y frameworks como **React, Next.js, Vue, Angular, React Native, Node.js, NestJS, Flask y Spring Boot**.
+- 📱 También tengo experiencia creando interfaces móviles con **React Native** y flujos para Android usando **Android Studio**.
+- 🧰 Utilizo herramientas como **Postman**, Docker, Git, GitHub y VS Code para mantener un flujo de desarrollo ordenado y trazable.
+- 🎯 Me interesan las **buenas prácticas**, la **DX para devs** y los productos que la gente realmente quiere usar.
+- 🤝 Siempre abierto a colaborar en **open source**, ideas nuevas y productos **SaaS**.
 
+---
 
 ## ⚙️ Tech Playground
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=252850&center=true&vCenter=true&width=800&lines=JavaScript+Addict;TypeScript+Enjoyer;Frontend+Ninja;Backend+En+Esteroides;Flask+y+NestJS+Lover;Siempre+deployando+algo+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=252850&center=true&vCenter=true&width=800&lines=JavaScript+Addict;TypeScript+Enjoyer;Frontend+Ninja;Backend+En+Esteroides;Flask+NestJS+Spring+Boot;Siempre+probando+APIs+en+Postman+🔥" />
 </p>
 
 ---
@@ -58,35 +61,35 @@ Full-Stack Developer desde Colombia, enfocado en construir soluciones web claras
   <tr>
     <td align="center" width="33%">
       <h3>🎨 Frontend Sorcery</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,html,css,sass,bootstrap&perline=3" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,html,css,sass,bootstrap&perline=3" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Pixel_Perfect-%23FF6EC7?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Responsive_Design-%2300C9A7?style=for-the-badge&logoColor=white" />
       <p>
         Componentes reutilizables, <br/>
-        estados felices y UIs sin bugs (o casi 🤫).
+        estados consistentes y UIs enfocadas en la experiencia de usuario.
       </p>
     </td>
     <td align="center" width="33%">
       <h3>🧪 Backend & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,python,java,mongodb,postgres&perline=3" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,spring,python,java,mongodb,postgres&perline=3" />
       <br/><br/>
       <img src="https://img.shields.io/badge/REST_&_JSON-%23F97316?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Auth_JWT-%237C3AED?style=for-the-badge&logoColor=white" />
       <p>
-        Endpoints limpios, <br/>
-        errores logueados y respuestas en <code>ms</code>.
+        Endpoints claros, <br/>
+        dominio bien modelado y respuestas pensadas para el cliente.
       </p>
     </td>
     <td align="center" width="33%">
       <h3>🛠 DevOps & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,figma&perline=3" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,androidstudio,postman,figma&perline=3" />
       <br/><br/>
       <img src="https://img.shields.io/badge/CLI_Enjoyer-%231F2933?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Git_Flow-%2300B4D8?style=for-the-badge&logoColor=white" />
       <p>
-        Commits bonitos, <br/>
-        branches ordenadas y deploy sin dramas.
+        Pipelines claros, <br/>
+        entornos reproducibles y APIs bien probadas antes de llegar a producción.
       </p>
     </td>
   </tr>
