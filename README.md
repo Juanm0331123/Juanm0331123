@@ -33,16 +33,20 @@
 
 ---
 
-### 👋 Hey, soy Juan Miguel
+### ⚡ Hey, soy Juan Miguel
 
-Soy desarrollador/a de software enfocado/a en **aplicaciones web** y **experiencias digitales** con impacto real.  
-Me encanta construir cosas desde cero, mejorar productos existentes y aprender tecnologías nuevas en el camino.
+<p align="center">
+  <b>Full-Stack Dev</b> desde Colombia 🇨🇴 · fan del código limpio, las UIs sabrosas y los deploys sin drama 🚀
+</p>
 
-- 🌍 Desde: **Colombia** (UTC-5)
-- 💻 Enfocado/a en: **JavaScript / TypeScript, React, Node.js**
-- 📦 Intereses: **arquitectura de software, buenas prácticas, UI/UX y automatización**
-- 🚀 Buscando: colaborar en proyectos **open source** y productos **SaaS**
-- 🎧 Siempre codeando con música de fondo (lofi, house, electrónica suave)
+> Rompo cosas en local para entender cómo funcionan  
+> y luego las dejo más rápidas, más bonitas y más mantenibles.
+
+- 🧭 Construyo **aplicaciones web** y **experiencias digitales** que se sienten vivas y fluidas.
+- 🧠 Juego a diario con **JavaScript / TypeScript** y cositas como **React, Vue, Angular, Node.js, NestJS y Flask**.
+- 🎯 Me obsesionan las **buenas prácticas**, la **DX para devs** y los productos que la gente *realmente* quiere usar.
+- 🤝 Siempre abierto a colaborar en **open source**, ideas locas y productos **SaaS**.
+- 🎧 Si ves commits tarde en la noche, seguro hay **lofi / electrónica** sonando de fondo.
 
 ---
 
