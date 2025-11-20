@@ -202,7 +202,6 @@ Full-Stack Developer desde Colombia, enfocado en construir soluciones web claras
   <img src="https://github-profile-trophy.vercel.app/?username=Juanm0331123&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
-<details>
 <summary>✅ GitHub Analytics</summary>
 <p align="left">
 <a href="https://github.com/Juanm0331123">
@@ -210,18 +209,6 @@ Full-Stack Developer desde Colombia, enfocado en construir soluciones web claras
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanm0331123&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 </p>
-</details>
-
-<details>
-  <summary>✅ Recent Github Activity</summary>
-  <p align="center">
-    <img align="center" width="200" height="150" src="https://github.com/manojuppala/manojuppala/blob/master/assets/080f909da46192c0db62b76330302b0c.gif?raw=true">
-    <h2>Coming soon...</h2>
-  </p>
-  <!--START_SECTION:activity-->
-
-  <!--END_SECTION:activity-->
-</details>
 
 ## 🧠 Sobre mí
 
