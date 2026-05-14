@@ -37,8 +37,8 @@
       <img src="https://img.shields.io/badge/Pixel_Perfect-%23FF6EC7?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Responsive_Design-%2300C9A7?style=for-the-badge&logoColor=white" />
       <p>
-        Componentes reutilizables, <br/>
-        estados consistentes y UIs enfocadas en la experiencia de usuario.
+        Reusable components, <br/>
+        consistent state and user-focused interfaces.
       </p>
     </td>
     <td align="center" width="33%">
@@ -48,8 +48,8 @@
       <img src="https://img.shields.io/badge/REST_&_JSON-%23F97316?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Auth_JWT-%237C3AED?style=for-the-badge&logoColor=white" />
       <p>
-        Endpoints claros, <br/>
-        dominio bien modelado y respuestas pensadas para el cliente.
+        Clear endpoints, <br/>
+        well-modeled domains and client-friendly responses.
       </p>
     </td>
     <td align="center" width="33%">
@@ -59,8 +59,8 @@
       <img src="https://img.shields.io/badge/CLI_Enjoyer-%231F2933?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Git_Flow-%2300B4D8?style=for-the-badge&logoColor=white" />
       <p>
-        Pipelines claros, <br/>
-        entornos reproducibles y APIs bien probadas antes de llegar a producción.
+        Clear pipelines, <br/>
+        reproducible environments and well-tested APIs before production.
       </p>
     </td>
   </tr>
@@ -76,7 +76,7 @@
       <a href="https://github.com/Juanm0331123">
         <img
           height="165em"
-          src="https://github-readme-stats.vercel.app/api?username=Juanm0331123&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=9ca3af&text_color=c9d1d9"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juanm0331123&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;icon_color=9ca3af&amp;text_color=c9d1d9"
           alt="Juan Miguel's GitHub stats"
         />
       </a>
@@ -85,7 +85,7 @@
       <a href="https://github.com/Juanm0331123">
         <img
           height="165em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanm0331123&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=c9d1d9"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juanm0331123&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;text_color=c9d1d9"
           alt="Top languages"
         />
       </a>
