@@ -76,7 +76,7 @@
       <a href="https://github.com/Juanm0331123">
         <img
           height="165em"
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juanm0331123&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;icon_color=9ca3af&amp;text_color=c9d1d9"
+          src="https://github-readme-stats.vercel.app/api?username=Juanm0331123&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;icon_color=9ca3af&amp;text_color=c9d1d9"
           alt="Juan Miguel's GitHub stats"
         />
       </a>
@@ -85,7 +85,7 @@
       <a href="https://github.com/Juanm0331123">
         <img
           height="165em"
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juanm0331123&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;text_color=c9d1d9"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanm0331123&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;text_color=c9d1d9"
           alt="Top languages"
         />
       </a>
