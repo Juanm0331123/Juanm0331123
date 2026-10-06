@@ -1,0 +1,18 @@
+{
+  "username": "Juanm0331123",
+  "prompt_user": "juan",
+  "name": "Juan Miguel Leon Gomez",
+  "banner_lines": ["JUAN", "MIGUEL"],
+  "tagline": "full stack developer · automation · data",
+  "now": "shipping web products & data pipelines",
+  "info": [
+    ["Role", "Full Stack Developer"],
+    ["Focus", "Web products · RPA · Scraping"],
+    ["Location", "Colombia (UTC-5)"],
+    ["Studying", "MSc AI & Data Science"],
+    ["Frontend", "React · Next.js · Angular · Vue"],
+    ["Backend", "Node · NestJS · Spring · Flask"],
+    ["Data/Ops", "Python · Airflow · Docker · PG"],
+    ["Mindset", "clean code · DDD · ship it"]
+  ]
+}
