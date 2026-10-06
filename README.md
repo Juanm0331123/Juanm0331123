@@ -1,101 +1,90 @@
-<h1 align="center">Juan Miguel Leon Gomez</h1>
-<p align="center"><strong>Full Stack Developer</strong></p>
-<p align="center">
-  I build scalable, maintainable web products with a strong focus on clarity,
-  performance, and user experience.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juanmigueldev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:juanmiguelleon5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Portfolio badge can be added here later -->
-</p>
+<!-- Terminal-style profile. The SVGs in ./assets are regenerated daily from real
+     GitHub data by .github/workflows/profile-art.yml — edit profile.json, not the SVGs. -->
 
----
+<a href="https://github.com/Juanm0331123">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Juan+Miguel+%F0%9F%91%8B;Full+Stack+Developer+from+Colombia;I+build+scalable%2C+maintainable+web+products;Automation+%C2%B7+RPA+%C2%B7+Data+pipelines" alt="Typing intro" />
+</a>
 
-## Core Strengths
+<h3><code>juan@github ~ $ ./contributions.sh</code></h3>
 
-- I design frontend experiences that prioritize consistency, responsiveness, and reusable component systems.
-- I build backend services and APIs with clear contracts, solid domain modeling, and maintainable architecture.
-- I care about product quality as much as implementation, balancing performance, usability, and delivery speed.
-- I work comfortably across JavaScript, TypeScript, Python, Java, and modern web frameworks.
-- I value clean code, predictable collaboration, and engineering practices that scale with teams and products.
-- Based in Colombia and open to professional collaboration on ambitious digital products.
+<img src="./assets/contrib-heatmap.svg" width="860" alt="Juan Miguel's GitHub contribution graph — auto-refreshed daily" />
 
----
+<br><br>
 
-<table align="center">
+<h3><code>juan@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./assets/banner.svg" width="420" alt="Juan Miguel — terminal banner" /></td>
+<td valign="top"><img src="./assets/card.svg" width="420" alt="Juan Miguel's profile info, streaks and monthly contributions — auto-refreshed daily" /></td>
+</tr>
+</table>
+
+<br>
+
+<h3><code>juan@github ~ $ cat about.md</code></h3>
+
+</div>
+
+- 🧩 I design **frontend experiences** that prioritize consistency, responsiveness, and reusable component systems.
+- 🧱 I build **backend services and APIs** with clear contracts, solid domain modeling, and maintainable architecture.
+- 🤖 I automate the boring stuff: **RPA, web scraping and data pipelines** that run reliably in production.
+- 🎯 I care about **product quality** as much as implementation — performance, usability, and delivery speed.
+- 🎓 Currently pursuing an **MSc in AI & Data Science**.
+- 🌎 Based in **Colombia**, open to collaborating on ambitious digital products.
+
+<div align="center">
+
+<br>
+
+<h3><code>juan@github ~ $ ls ~/stack</code></h3>
+
+<table>
   <tr>
     <td align="center" width="33%">
-      <h3>🎨 Frontend Sorcery</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,html,css,bootstrap&perline=3" />
+      <h4>🎨 frontend/</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,html,css,tailwind&perline=3" alt="Frontend stack" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Pixel_Perfect-%23FF6EC7?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Responsive_Design-%2300C9A7?style=for-the-badge&logoColor=white" />
-      <p>
-        Reusable components, <br/>
-        consistent state and user-focused interfaces.
-      </p>
+      <img src="https://img.shields.io/badge/Pixel_Perfect-FF6EC7?style=flat-square" alt="Pixel Perfect" />
+      <img src="https://img.shields.io/badge/Responsive-00C9A7?style=flat-square" alt="Responsive" />
+      <p><sub>Reusable components, consistent state<br/>and user-focused interfaces.</sub></p>
     </td>
     <td align="center" width="33%">
-      <h3>🧪 Backend & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,spring,python,java,mongodb,postgres&perline=3" />
+      <h4>🧪 backend/</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,spring,python,java,mongodb,postgres&perline=3" alt="Backend stack" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/REST_&_JSON-%23F97316?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Auth_JWT-%237C3AED?style=for-the-badge&logoColor=white" />
-      <p>
-        Clear endpoints, <br/>
-        well-modeled domains and client-friendly responses.
-      </p>
+      <img src="https://img.shields.io/badge/REST_&_JSON-F97316?style=flat-square" alt="REST & JSON" />
+      <img src="https://img.shields.io/badge/Auth_JWT-7C3AED?style=flat-square" alt="Auth JWT" />
+      <p><sub>Clear endpoints, well-modeled domains<br/>and client-friendly responses.</sub></p>
     </td>
     <td align="center" width="33%">
-      <h3>🛠 DevOps & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,androidstudio,postman,figma&perline=3" />
+      <h4>🛠 devops/</h4>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode,postman,figma,bash&perline=3" alt="DevOps & tools" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/CLI_Enjoyer-%231F2933?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git_Flow-%2300B4D8?style=for-the-badge&logoColor=white" />
-      <p>
-        Clear pipelines, <br/>
-        reproducible environments and well-tested APIs before production.
-      </p>
+      <img src="https://img.shields.io/badge/CLI_Enjoyer-1F2933?style=flat-square" alt="CLI Enjoyer" />
+      <img src="https://img.shields.io/badge/Git_Flow-00B4D8?style=flat-square" alt="Git Flow" />
+      <p><sub>Clear pipelines, reproducible environments<br/>and tested APIs before production.</sub></p>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## GitHub Snapshot
+<h3><code>juan@github ~ $ ./links.sh</code></h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Juanm0331123">
-        <img
-          height="165em"
-          src="https://github-readme-stats.vercel.app/api?username=Juanm0331123&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;icon_color=9ca3af&amp;text_color=c9d1d9"
-          alt="Juan Miguel's GitHub stats"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Juanm0331123">
-        <img
-          height="165em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanm0331123&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;text_color=c9d1d9"
-          alt="Top languages"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<p><b>Full Stack Developer · Automation · Data</b></p>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmigueldev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmigueldev/)
+[![Email](https://img.shields.io/badge/Email-juanmiguelleon5%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmiguelleon5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Juanm0331123-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanm0331123?tab=repositories)
+<!-- Portfolio: uncomment and set your URL
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--domain.dev-22d3ee?style=for-the-badge&logo=vercel&logoColor=black)](https://your-domain.dev)
+-->
 
-<p align="center">
-  Open to building thoughtful products, strong engineering teams, and web
-  experiences that users actually enjoy.
-</p>
+<br>
+
+<sub><code>juan@github ~ $ exit</code> — open to building thoughtful products, strong engineering teams, and web experiences users actually enjoy.</sub>
+
+</div>
