@@ -1,4 +1,4 @@
 requests==2.32.3
 beautifulsoup4==4.12.3
-pyfiglet==1.0.2
 Pillow==11.0.0
+numpy==2.1.3

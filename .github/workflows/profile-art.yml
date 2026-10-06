@@ -1,6 +1,6 @@
 name: Update profile art
 
-# Regenerates the contribution graph, banner and stats card from real data.
+# Regenerates the contribution graph, ASCII portrait and stats card from real data.
 # Runs daily, on every push to main that touches the generators/config, and on demand.
 
 "on":
@@ -46,7 +46,7 @@ jobs:
       - name: Render SVGs
         run: |
           python scripts/render_heatmap.py
-          python scripts/render_banner.py
+          python scripts/render_portrait.py
           python scripts/render_card.py
 
       - name: Commit updated art
