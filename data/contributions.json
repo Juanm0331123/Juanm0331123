@@ -1,18 +1,18 @@
 {
   "username": "Juanm0331123",
   "source": "html",
-  "generated_at": "2026-10-17T14:14:06Z",
+  "generated_at": "2026-10-18T14:38:10Z",
   "range": {
-    "start": "2025-10-12",
-    "end": "2026-10-17"
+    "start": "2025-10-19",
+    "end": "2026-10-18"
   },
-  "total_contributions": 2944,
-  "active_days": 222,
+  "total_contributions": 2958,
+  "active_days": 223,
   "avg_per_active_day": 13.3,
   "current_streak": {
-    "length": 12,
+    "length": 13,
     "start": "2026-10-05",
-    "end": "2026-10-16"
+    "end": "2026-10-17"
   },
   "longest_streak": {
     "length": 15,
@@ -74,45 +74,10 @@
     },
     {
       "month": "2026-10",
-      "total": 608
+      "total": 622
     }
   ],
   "days": [
-    {
-      "date": "2025-10-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-13",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-14",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-15",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-16",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-18",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-19",
       "count": 0,
@@ -1925,11 +1890,16 @@
     },
     {
       "date": "2026-10-16",
-      "count": 37,
-      "level": 2
+      "count": 44,
+      "level": 3
     },
     {
       "date": "2026-10-17",
+      "count": 7,
+      "level": 1
+    },
+    {
+      "date": "2026-10-18",
       "count": 0,
       "level": 0
     }
